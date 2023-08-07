@@ -4,7 +4,8 @@
 # ✨ IBM HR Analytics Employee Attrition Analysis ✨
 </div>
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/C4D12AQHsUf69mP_ZJQ/article-cover_image-shrink_600_2000/0/1635797238615?e=2147483647&v=beta&t=kHTYGYTym9MOuGK2qb3AyE2dFs63U2Id9C9TqjuA21M" width="1000" height="400">
+  <img 
+    src="https://media.licdn.com/dms/image/C4D12AQHsUf69mP_ZJQ/article-cover_image-shrink_600_2000/0/1635797238615?e=2147483647&v=beta&t=kHTYGYTym9MOuGK2qb3AyE2dFs63U2Id9C9TqjuA21M" width="1000" height="400">
 </p>
 
 
