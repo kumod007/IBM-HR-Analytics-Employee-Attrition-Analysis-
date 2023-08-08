@@ -8,7 +8,6 @@
     src="https://media.licdn.com/dms/image/C4D12AQHsUf69mP_ZJQ/article-cover_image-shrink_600_2000/0/1635797238615?e=2147483647&v=beta&t=kHTYGYTym9MOuGK2qb3AyE2dFs63U2Id9C9TqjuA21M" width="1000" height="400">
 </p>
 
-
 <h2>📝 Description:</h2>
 
 * <b>`Goal:`</b> The goal of this project is to conduct an Exploratory Data Analysis (EDA) using Python to gain valuable insights into employee attrition within the HR department of a company. By analyzing a comprehensive dataset containing relevant employee attributes, the project aims to identify key factors that contribute to attrition.
