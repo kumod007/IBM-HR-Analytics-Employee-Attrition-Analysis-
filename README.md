@@ -1,6 +1,5 @@
 <div align="center">
 
-  
 # ✨ IBM HR Analytics Employee Attrition Analysis ✨
 </div>
 <p align="center">
